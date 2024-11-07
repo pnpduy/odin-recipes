@@ -14,4 +14,6 @@ If your Action is correct and you are confident purely , You will be able to get
 This is the only important thing that needs to be done for now . 
 7th Nov 2024 
 
+PS : In a forked repository the contributions that you have made will not show ; until and unless the pull request is merged with that of the Parent Repository . 
+
 ~~~
